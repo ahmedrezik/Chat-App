@@ -1,0 +1,17 @@
+To run the server to test the app 
+Access the file use the CLI 
+and execute 
+	npm run devStart 
+
+Then use HTML file called index.html
+
+
+To run on a different machine 
+open another CLI tab and execute 
+	http-server . -p *port no.*
+
+in our case the port is 6000
+if the port yields an error 
+replace the 6000 with 3000 in the 3 files
+index.html , script.js, server.js
+

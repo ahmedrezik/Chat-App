@@ -1,4 +1,4 @@
-const io = require('socket.io')(3000)
+const io = require('socket.io')(6000)
 const express = require("express");
 const app = express();
 
